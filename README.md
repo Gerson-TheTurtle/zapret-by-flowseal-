@@ -5,3 +5,4 @@ If not work, check ipset-all.(if in tho no text, idk what to do, im sorry)
 
 I'm old!
 -Gerson
+# НЕ ИСПОЛЬЗУЙТЕ ЭТОТ, ИСПОЛЬЗУЙТЕ ДРУГОЙ ИЗ МОЕГО СПИСКА РЕПОЗИТОРИЕВ, ЭТО СТАРАЯ ВЕРСИЯ "МОДА"!!!!
